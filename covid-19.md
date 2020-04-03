@@ -5,7 +5,7 @@
 #### Evidence
 A neighbor calls across the fence to ask about whether she should wear a spare surgical mask to go to the grocery store, because 'you are a doctor, and should know'.* She is completly asymptomatic.
 
-* and you should.
+*and you should
 
 #### Question
 You respond that strong evidence exits that a mask will
@@ -42,4 +42,4 @@ Both the CDC and the WHO had initially (at the time of this writing) recommended
 
 #### References
 https://slatestarcodex.com/2020/03/23/face-masks-much-more-than-you-wanted-to-know/
-[32083643][32134116][32134116] [25858901]
+32083643, 32134116,25858901
