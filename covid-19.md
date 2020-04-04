@@ -1,6 +1,9 @@
 ### Masks
 [Face masks - SSC](https://slatestarcodex.com/2020/03/23/face-masks-much-more-than-you-wanted-to-know/)
 
+### Links
+[PedSurfLib on covid-19](https://www.pedsurglibrary.com/apsa/view/PedSurg%20Resource/1884034/all/COVID_19_for_Pediatric_Surgeons?q=covid)
+
 ### Covid-19 masks
 #### Evidence
 A neighbor calls across the fence to ask about whether she should wear a spare surgical mask to go to the grocery store, because 'you are a doctor, and should know'.* She is completly asymptomatic.
