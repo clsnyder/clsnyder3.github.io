@@ -14,7 +14,7 @@
 
 <div class="container">
   <h2>Simple Collapsible</h2>
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Simple collapsible</a>
+  <a href="#demo" class="btn btn-info" data-toggle="collapse">Read More</a>
   <div id="demo" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
