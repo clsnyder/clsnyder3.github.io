@@ -2,7 +2,7 @@
 [Face masks - SSC](https://slatestarcodex.com/2020/03/23/face-masks-much-more-than-you-wanted-to-know/)
 
 ### Links
-[PedSurfLib on covid-19](https://www.pedsurglibrary.com/apsa/view/PedSurg%20Resource/1884034/all/COVID_19_for_Pediatric_Surgeons?q=covid)
+[PedSurgLib on covid-19](https://www.pedsurglibrary.com/apsa/view/PedSurg%20Resource/1884034/all/COVID_19_for_Pediatric_Surgeons?q=covid)
 
 ### Covid-19 masks
 #### Evidence
